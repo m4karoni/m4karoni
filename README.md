@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @m4karoni
 - 👀 I’m interested in cybersecurity, typically CTF challenges, generally everything :D
-- 🌱 I’m currently pursuing Bachelor's degree of Computer Science majoring in security
 - 💞️ I’m looking to collaborate on anything possible because I need experience
 - 📫 How to reach me 0129398@kdu-online.com OR m4karoni@protonmail.com
 
