@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity, typically CTF challenges, generally everything :D
 - 🌱 I’m currently pursuing Bachelor's degree of Computer Science majoring in security
 - 💞️ I’m looking to collaborate on anything possible because I need experience
-- 📫 How to reach me m4kachaohai@gmail.com OR 0129398@kdu-online.com
+- 📫 How to reach me 0129398@kdu-online.com OR m4karoni@protonmail.com
 
 <!---
 m4karoni/m4karoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
